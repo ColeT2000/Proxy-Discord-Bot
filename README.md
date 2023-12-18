@@ -1,6 +1,6 @@
 # proxy-discord-bot
 X (formerly Twitter) link: `https://twitter.com/tuffproxies` <br />
-Facilitates the distribution of residential proxy to customers.
+Automated distribution of residential proxy to customers.
 
 The Discord bot was developed to automatically distribute proxies to customers 24/7, regardless of time zone differences.
 
