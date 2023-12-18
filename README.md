@@ -1,4 +1,4 @@
-# proxy-discord-bot
+# Proxy-Discord-Bot
 X (formerly Twitter) link: `https://twitter.com/tuffproxies` <br />
 Automated distribution of residential proxy to customers.
 
